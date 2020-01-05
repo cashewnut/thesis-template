@@ -10,3 +10,4 @@ fduthesis.pdf
 *.bbl
 *.blg
 _*
+.DS_Store
